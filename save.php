@@ -1,7 +1,7 @@
-<html>
+﻿<html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>ذخیره اطلاعات</title>
+    <title>ذخیره کردن اطلاعات</title>
 </head>
 <body>
 <?php
